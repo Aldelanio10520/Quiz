@@ -31,8 +31,9 @@ git checkout <nome-branch>
 git branch -b <nome-da-branch>
 - criar uma nova branch a partir do branch atual que estamos
 
-git remote set-url origin https://github.com/Aldelanio10520/Quiz.git
-git remote -v
+git remote set-url origin https://github.com/Aldelanio10520/Quiz.git /
+git remote -v /
+git push -u origin main
 - conecta no repositorio e joga os arquivos lá
 
 git remote add <nome> <url>
