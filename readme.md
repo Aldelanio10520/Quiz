@@ -31,6 +31,10 @@ git checkout <nome-branch>
 git branch -b <nome-da-branch>
 - criar uma nova branch a partir do branch atual que estamos
 
+git remote set-url origin https://github.com/Aldelanio10520/Quiz.git
+git remote -v
+- conecta no repositorio e joga os arquivos lá
+
 git remote add <nome> <url>
 - add um novo repositorio remoto
 
@@ -43,3 +47,4 @@ git pull <nome> <nome-da-branch>
 git fetch
 - atualiza o nome historico local de acordo com o historico salvo la no repositorio original
 - sincronização do local com o remoto
+
