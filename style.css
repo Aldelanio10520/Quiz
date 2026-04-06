@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    margin: 0rem;
+    padding: 0rem;
+    border: 0rem;
+    background-color: bisque;
+}
+
+body {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+header {
+    margin: 0rem;
+    padding: 0rem;
+    text-align: center;
+}
+
+p {
+    margin: 1rem;
+    padding: 0rem;
+}
+
+h1 {
+    margin: 1rem;
+    padding: 0rem;
+}
+
+h2 {
+    margin: 1rem;
+    padding: 0rem;
+}
+
+figure {
+    margin: 1rem;
+    text-align: center;
+}
