@@ -49,3 +49,11 @@ git fetch
 - atualiza o nome historico local de acordo com o historico salvo la no repositorio original
 - sincronização do local com o remoto
 
+
+Esse funciona sempre
+git branch - para ver em qual está
+git checkout <nome da branch> - mudar para a que eu quiser
+git checkout -b <nome da branch> - criar uma nova
+git add <nome do arquivo>
+git commit -m "comentário da alteracao"
+git push -u origin <nome da branch> - adiciona no github
