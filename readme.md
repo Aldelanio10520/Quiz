@@ -28,6 +28,9 @@ git branch
 git checkout <nome-branch>
 - muda para essa branch
 
+git checkout -b <nome-branch>
+- cria a branch
+
 git branch -b <nome-da-branch>
 - criar uma nova branch a partir do branch atual que estamos
 
